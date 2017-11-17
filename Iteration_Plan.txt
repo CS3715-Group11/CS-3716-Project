@@ -1,0 +1,22 @@
+We’ll be using feature driven development 
+This being because this system has more independent features than usual hence this would mean a working code could hence be generated quicker
+
+Prioritized features List:
+1. Allow users to log in to system(users being the principal / teachers) 
+2. Allow principal to add event to a schedule based on requirements
+3. Allow users to view schedule
+4. Allow the principal to approve schedule requests 
+5. Detect scheduling conflicts and allow principal to resolve scheduling conflicts
+6. Allow the principal to edit or delete events
+7. Allow the user to request to addition/deletion of event
+
+Reasons for Feature list prioritization:
+1. A user verification is the most important as with this system we only want one person to be able to make any real changes to the schedule and this would be the principal. 
+This would also stop any other users from giving their events priority
+
+2. The second most crucial event that we need to implement would be to add an event this is the fundamental need of the system and hence any other feature either relies on this feature or just comes second to it
+
+3. A method of outputting the current schedule would be important as it would allow users to view a schedule that would be made and follow it.  
+
+
+For our first iteration, we will be implementing the user login, event addition by the principal and the process of viewing the schedule of a give room.
