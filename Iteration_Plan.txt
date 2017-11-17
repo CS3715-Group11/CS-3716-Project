@@ -1,0 +1,9 @@
+For our project, we are going to design our system using a use case driven development.
+
+For the first iteration we will implement the basic use case of adding/deleting an event from the schedule,
+without taking into account time collisions or recurring events.
+
+For this use case the user will request an event addition/deletion to the principal.
+These requests will then be added to an array which the principle can access and 
+then make the required changes to the schedule.
+
