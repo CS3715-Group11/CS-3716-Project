@@ -18,4 +18,4 @@ To run the source code:
 5. enter "java loginFrame" 
 
 All the documentation can be found in Documentation folder.
-The source code can be found in the Source_code folder.
+The source code can be found in the Interface folder.
